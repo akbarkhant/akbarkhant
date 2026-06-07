@@ -48,7 +48,7 @@
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🔥 **Portfolio** | A short, compelling description of what this project does and why it matters. | , Node.js, Postgresql | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/Portfolio.git) |
+| 🔥 **Portfolio** | A short, compelling description of what this project does and why it matters. | Angular , Node.js, Postgresql | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/Portfolio.git) |
 | 🌐 **Wealthflow** | A short, compelling description of what this project does and why it matters. | React, Node.js, PostgreSQL | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/WealthFlow.git) |
 | ⚡ **BEE** | A short, compelling description of what this project does and why it matters. | TypeScript, Python, FastAPI, Postgresql | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/BEE.git) |
 
