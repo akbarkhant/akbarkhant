@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Akbar Khan 👋
 
 ### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
 
@@ -12,8 +12,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Skill you're learning]**
+- 🔭 I'm currently working on **WealthFlow**
+- 🌱 I'm currently learning **backend development & AI code agents use cases**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **[Your areas of expertise]**
 - ⚡ Fun fact: **[Something interesting about you]**
