@@ -1,4 +1,4 @@
-﻿<div align="center">
+﻿<div>
 
 # Hey there, I'm Akbar Khan 👋
 
@@ -70,9 +70,6 @@
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=flat-square&label=Profile+Views)
-
 ⭐️ *If you like what I do, consider starring some of my repos!*
 
 </div>
