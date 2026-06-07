@@ -1,4 +1,4 @@
-﻿<div>
+﻿<div align="centre">
 
 # Hey there, I'm Akbar Khan 👋
 
