@@ -48,9 +48,9 @@
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🔥 **Portfolio** | A short, compelling description of what this project does and why it matters. | Angular , Node.js, Postgresql | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/Portfolio.git) |
-| 🌐 **Wealthflow** | A short, compelling description of what this project does and why it matters. | React, Node.js, PostgreSQL | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/WealthFlow.git) |
-| ⚡ **BEE** | A short, compelling description of what this project does and why it matters. | TypeScript, Python, FastAPI, Postgresql | [Demo](https://yourlink.com) · [Repo](https://github.com/akbarkhant/BEE.git) |
+| 🔥 **Portfolio** | A short, compelling description of what this project does and why it matters. | Angular , Node.js, Postgresql | [Demo](https://akbarkhant.com) · [Repo](https://github.com/akbarkhant/Portfolio.git) |
+| 🌐 **Wealthflux** | A short, compelling description of what this project does and why it matters. | React, Node.js, PostgreSQL | [Demo](https://wealth-flux.vercel.app) · [Repo](https://github.com/akbarkhant/WealthFlux.git) |
+| ⚡ **BEE** | A short, compelling description of what this project does and why it matters. | TypeScript, Python, FastAPI, Postgresql | [Demo](https://bee-7.vercel.app) · [Repo](https://github.com/akbarkhant/BEE.git) |
 
 ---
 ---
@@ -59,11 +59,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akbarkhant)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akbarkhant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akbarkhant.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbarkhant101@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/akbarkhant)
 
 </div>
 
